@@ -1,1 +1,2 @@
 # bash-fork-bomb.github.io
+This account is being used to showcase some of the projects that will have been completed over the course of the coding regiment. It will be populated with assignments that, by the end, will tell a narrative of learning.
